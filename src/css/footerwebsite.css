@@ -1,0 +1,94 @@
+
+.footer{
+    height: 500px;
+    width: 1600px;
+}
+.footer-logo img{
+    width: 1600px;
+    height: 180px;
+}
+.footer-details{
+    background-color: #222222;
+    height: 410px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-left: 215px;
+    padding-right: 180px;
+    padding-top: 0px;
+    color: #b6b6b6;
+    font-size: 14px
+}
+.market-heading{
+    padding-top: 62px;
+    padding-bottom: 20px;
+}
+.market-details p{
+    padding-bottom: 30px;
+    line-height: 20px;
+}
+.footer-heading h4{
+    color: #ffffff;
+    font-size: 18px;
+    padding-top: 85px;
+    padding-bottom: 25px;
+}
+.information{
+    padding-left: 60px;
+}
+.information-desc a{
+    color: #b6b6b6;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.find{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+}
+.contact{
+    padding-bottom: 10px;
+}
+.contact a img{
+    margin-right: 10px;
+    width: 10px;
+    height: 10px;
+}
+.contact a {
+    color:  #b6b6b6;
+}
+.contact-payment{
+    padding-bottom: 50px;
+}
+.contact-payment span{
+    display: inline-block;
+    line-height: 20px;
+    padding-left: 10px;
+}
+.contact-payment img{
+    padding-bottom: 20px;
+}
+.payment-heading h4{
+    color: #ffffff;
+    padding-bottom: 15px;
+}
+.payment-img a img{
+    padding: 5px 10px;
+}
+.footer-psdf{
+    background-color: #1f1e1e;
+    height: 140px;
+    color: #b6b6b6;
+    font-size: 14px;
+    text-align: center;
+}
+.detailed{
+    padding: 35px 0px;
+    padding-left: 66px;
+}
+.detailed ul li{
+    display: inline-block;
+    padding: 0px 18px;
+}
+.detailed ul li a{
+    color: #b6b6b6;
+}

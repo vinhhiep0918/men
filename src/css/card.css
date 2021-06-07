@@ -1,0 +1,98 @@
+.content2{
+    margin: 0px 100px;
+    margin-top: 20px;
+}
+#thongtinsanpham{
+    text-align: center;
+}
+ 
+#tensanpham, #product-name {
+    width: 400px;
+    height: 90px;
+    text-align: center;
+    font-size: 20px;
+}
+#mau , #product-color {
+    width: 225px;
+    height: 90px;
+    text-align: center;
+}
+#kichthuoc , #product-size{
+    width: 150px;
+    height:90px;
+    text-align: center;
+}
+#price , #product-price{
+    width: 190px;
+    height:90px;
+    text-align: center;
+}
+#soluong , #quantity{
+    width: 190px;
+    height:90px;
+    text-align: center;
+}
+#check{
+    width: 20px;
+    height: 20px;
+}
+.desc{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 30px;
+}
+.check-box label{
+    font-size: 20px;
+    padding-left: 10px;
+}
+.tien{
+    margin-left: 250px;
+}
+.tien p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.khachhang{
+    background-color: #f2f2f2;
+    height: 400px;
+    margin-bottom: 40px;
+}
+.khachhang-desc{
+    display: grid;
+    grid-template-columns: 220px 1fr;
+}
+#ten , #sdt , #diachi{
+    width: 600px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.khachhang h3{
+    padding: 20px;
+    font-size: 20px;
+}
+.thanhtoan{
+    margin-top: 40px;
+
+}
+ #thanhtoan , #huy {
+   width: 250px;
+   height: 70px; 
+   border: none;
+   /* cursor: pointer; */
+} 
+#huy:hover{
+    background-color: burlywood;
+}
+#thanhtoan:hover{
+    background-color: burlywood;
+}
+#huy{
+    margin-left: 300px;
+    margin-right: 40px;
+    border: 1px solid #000000;
+} 
+#thanhtoan{
+    background-color: #d62727;
+}

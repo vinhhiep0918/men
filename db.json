@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Quần Jean Nam",
+      "image": "https://bizweb.dktcdn.net/100/350/935/products/quan-jeans-quan-bo-viet-tien-regular-rong-rai-6n7111bh5qj-01.jpg?v=1575366603713",
+      "price": 199000,
+      "quantity": 49,
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "Áo Tay Dài Bẻ Cổ",
+      "image": "https://i.pinimg.com/236x/ca/be/c4/cabec496b409371f56aff5c3d7b89a47--thu-%C4%91%C3%B4ng-tim-obrien.jpg",
+      "price": 199000,
+      "quantity": 19,
+      "status": false
+    },
+    {
+      "id": "5",
+      "name": "Áo Thun Nam Cổ Lãnh TỤ",
+      "image": "https://img.zanado.com/media/catalog/product/cache/all/thumbnail/700x817/7b8fef0172c2eb72dd8fd366c999954c/4/_/ao_thun_nam_co_lanh_tu_la_mat_ba3e.jpg",
+      "price": 399000,
+      "quantity": 16,
+      "status": false
+    },
+    {
+      "id": "6",
+      "name": "Áo Kaki Nam Đen Trắng",
+      "image": "https://thoitrangngaynay.com/upload/images/Ao-khoac-kaki-nam-den-trang-RXISO.jpg",
+      "price": 399000,
+      "quantity": 23,
+      "status": false
+    },
+    {
+      "id": "7",
+      "name": "ÁO Thể Thao Nam",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq158rQZCRyVzINsxHNjWPFv1c1W4MMN5SHg&usqp=CAU",
+      "price": 199000,
+      "status": true,
+      "quantity": 61
+    },
+    {
+      "id": "8",
+      "name": "Áo Thun Hàn Quốc",
+      "image": "https://cf.shopee.vn/file/094e9a2eede63a87d981777da7eb615e",
+      "price": 299000,
+      "quantity": 35,
+      "status": false
+    },
+    {
+      "id": "9",
+      "name": "Áo Thun Phối Màu FW744",
+      "image": "https://vn-test-11.slatic.net/p/80a4d5acceb71280e85622eb2654a002.jpg_720x720q80.jpg_.webp",
+      "price": 299000,
+      "status": false,
+      "quantity": 29
+    },
+    {
+      "id": "10",
+      "name": "Thun Oakley",
+      "image": "https://sieuthihangmy.com.vn/upload/images/2016/Quan_Ao/Nam/Ao_thun/oakley_mens_polo_shirt_ss_poliammide/1.jpg",
+      "price": 299000,
+      "quantity": 16,
+      "status": false
+    },
+    {
+      "id": "11",
+      "name": "Thun Nam Dây Kéo",
+      "image": "https://ae01.alicdn.com/kf/H3bd0e64a3f8446f3b8f5e1ba961b5908I/TFETTERS-Thu-Nam-D-y-K-o-Th-i-Trang-Thi-t-K-C-o-Nam.jpg_q50.jpg",
+      "price": "824000",
+      "quantity": "76",
+      "status": false
+    },
+    {
+      "id": "12",
+      "name": "Áo Thun Cổ Tròn",
+      "image": "https://linhvnxk.com/wp-content/uploads/2019/02/cabin-brown.jpg",
+      "price": "199000",
+      "quantity": "0",
+      "status": false
+    },
+    {
+      "id": "13",
+      "name": "Thun Phối Màu LK1999",
+      "image": "https://vn-test-11.slatic.net/p/27db854be63fdd89325c657e564d6dc6.jpg_720x720q80.jpg_.webp",
+      "price": 199000,
+      "status": false,
+      "quantity": 64
+    },
+    {
+      "id": "14",
+      "name": "Áo Kaki Mới LKF",
+      "image": "https://taru.vn/image/cache/data/product-5680/220893-196x234.jpg",
+      "price": 255000,
+      "status": true,
+      "quantity": 94
+    },
+    {
+      "id": "15",
+      "name": "Áo Kaki PHF",
+      "image": "https://bizweb.dktcdn.net/100/345/460/products/hm-654410.jpg?v=1597800248187",
+      "price": 399000,
+      "status": false,
+      "quantity": 13
+    },
+    {
+      "id": "16",
+      "name": "Quần Âu Nam F235",
+      "image": "https://file.hstatic.net/1000388805/file/quan-tay-nam-au_0e7092d462df49a79ae0f222ef85e43f_grande.jpg",
+      "price": "199000",
+      "quantity": "39",
+      "status": false
+    },
+    {
+      "id": "17",
+      "name": "Quần Âu Nam PK23",
+      "image": "https://vn-test-11.slatic.net/p/bde25b35939154c3e57e401080b3bc08.jpg_720x720q80.jpg_.webp",
+      "price": "499000",
+      "quantity": "55",
+      "status": false
+    },
+    {
+      "id": "18",
+      "name": "Quần Âu AZ",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhAPDxAQDxAVEBAVEBUQFQ8PDxAQFRUWFhUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODUtPSgtLysBCgoKDQ0OGBAPFSsZFRkrKystKysrLTc3Ky0tKy4tLSsrNzgtKys1MisrOC03LS0tLSstKystKzc3Ny04NystK//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAAAQIHCAMFBgT/xABGEAACAQMBAwgGBgcFCQAAAAAAAQIDBBEhBRIxBgcTQVFhcYEUIjKRobFCUnKSosIjJGKCssHRFTNjk+EIF0NTVaPS8PH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERMQIS/9oADAMBAAIRAxEAPwDMAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAHFWuYQ9upCH2pRj8zqrrlbs+k8VL+zi+zpqTfuTA7oHn6PLfZs3iO0LTPVmrCPzZ3tGrGaUoSjOL4OLUovwa4gXAAAAAAAAAAAAAAAAAAAxxy250JbNu52noSrqMKclPp+jbU1n2ejfB5XEyOa/8APzS3dpUpdU7Ok/NVKq+SRYPQw58o9ezprwrwf5C/+/Gn/wBPq/50P/EwyTg1kTWY3z5Q6tn1POvBfkOGfPk/o7NXnc/0pGIkhgZBlifPhV+js+kvGvOX5EfJW5671+xa2kPtdPU+UomM8DAyD3tbng2nLh6LT+zRk/4ps6+tzmbWln9dce6FK1il4epn4nkkvmBkHeXPLTaVTSW0LvH7FSVL+DB1txtW5qf3lzc1Pt1q0/nI+UFFHTT1aT+JKgWARGNV4MynzB1pKteU03udFSlu5e5vb0lvY4ZxpkxX1rwZlDmDX6zePq6Cj/HL/Ul4sZyABhQAAAAAAAAAAACletGEZTqSjCEU3KU2oxjFcW29EgLg8Xs/nNsbi9jY0ZSlvKShWa3aM6q4U451eVnEtE2klnJ7QAYS/wBoailWsJ41dK4jntUZQaX437zNpiH/AGhbfNPZ9XsqXEPvxhL8hZ0Yaj268EWIRZG2TAwSACiGiUQAS938/AH1WNjOrncTeMLEU5PL4aLw+BxXNB05ypy4xaT6tcJ8PMDiAAAgsQwKNGZOYLZrjTu7l8J1KdOPDhSTk376vwMOMz5zH0N3Zyl9e4ry9zUPyEvFjIoAMKAAAAAAAAA6/bm27eyputd1oUYcFvP1py47sIrWT7kjCvLLnauLreo2ClaUHlOpn9aqLxX90vDL71wLIMl8sucO02bvU3L0i6xpQpNZi8adLLhTXjr3Mwbys5ZXe05frFTdop5hQp5jRj2ZX05d8vLB5/rberby29W2+LbJNSIrFtNSi3GSacXFtSjJapprg0zZXm25VraVrGc2lcU8QuIr6+NJpdklr45XUa1tHfchuU0tm3UK6y6T9S4gvpUm1lpfWjxXmusWDaMxpz+UHKwoTX0LyGe5Sp1I/PBka0uY1YQqU5KcJxjKEovMZRkspp9jTPF89FLe2VXf1attL/uxj+YzFa7RLBBG2UoEgCBkk+zZdF78KmVjecO97y3H4e18gPns6046Rwt5RzvppLGca/vMis5NylLLfW8Y8OHceksNmRqrNRVIrK9ZJbvU1o/azh9axpx1xTa+zKcEnTlU1Tz03RpyeHpGMdV1avTL46ZZXmhnufwIO/sa9nG0nGpBO4/SfRlvuTa6NxnwSSzlY4tarGpHQ5IbLFWBVmyXNRbdHsyzX1qcp/5k5T/Ma2VHo33M2v5M2nQWttR/5dCjD7sEv5GfSx2gAMqAAAAAIlJJNtpJJtt6JJcW2Yw5ac79C33qOzlG6rcHVefRqb/ZxrUfhhd74Hpec3k/U2hYVaNGU41Y4qU4xk4xrOOvRzWcNPqzweGawrTRrDWjT0afYyyDsdr7Vr3lV17qtOvUfXJ6RXZGK0iu5JHyxRWJdG2UgDADBRouAMv8yXK7T+y68tVvStG3xjq50vLWS7t7sPcc6FHf2VfLsoqf3Jxn+U1stbidKcKtKThUhJSpyXGM4vKZsHT29Da2xburDCqOzuYVoLXo60aTyvDg13NGbFa8EoIlGkAwMgQfRYV9yaz7LcW88FJPKf8AJ/6HzlZriu75geptk6e9UjLdcZxi9YpuLkup9fX5F9uwkpQlKS4NJa50xl+yu1eBFCjVqRrqlCpOMkm9yE6mZYcktE9dUdlW2ZcVYqnC2u3l5kuhrcePGpjCy+oDws1hySWEm0uvCTBa4WJy6vW+LWf5lUBBDJIYH2bEtemubajjPSXFGD8JTin8Mm2NFaGt/NRY9NtO3fVSjVqy/dg4x/FOJslFaGfSxIAMqAAAAABgLnr5I+jV1f0Y4oV5PplFLFO54t+E9X4qXajPp8G3dk0ryhVta6zTqQcX2xfGMl3ppNd6EGpUS6Pq27smpY3Fa1rr16csZ4KceMZx7msPzPjizoyuSQSAwQSAIPS8hOUrsa1SM23bV6cqVxHjjKahUS7Ytvyb7jzeABFJaLwRciOnn8yQGCMEgCGiMEksDLfNrNuzqaOWKkZJLGdKNFP4vw0PWWt5OVSO9B08t72ZUs4TfZFPs79TCGyuVF1awdKhVjCD45p0pt8Fxkn1Je4vU5Y7QenplZfY6Ok/fCKaA+HlBT3bm4j2Vqq905R/KfAXq1ZTbnOUpyfGU5SnJ651b14tlAIIZZlWBlXmE2fmreXLXsxpUov7Tc5r8NMzYY+5lNn9Fs6FRrDrVatR96zuR+EE/MyCYrQACAAAAAAAADGnPVyQ9Lt1fUIZuLeL31FLeq2/GS73HWS7t7tRgWmzcRrJrXzpck/7Nu3KnHFrX3p0MezCWfXpeTeV3NdjNSpXkySiZY0iyJKokCxVlgwIwTF9T4/+6hCS7OK+K7AJICedQBBKAQAAACCSMgQyks9Wr6u9ljuORdh6Rf2dHqdxCUu+FP8ASSXugwNk+TGz1bWtvQX/AA6NOHnGKTfvydqUpLRFzm0AAAAAAAAAAAdDy35Nw2laVLaeIz9qjNrPR1o53ZeGrT7mzvgBp9c206NSdGrF06kJyhUi+MZxeGiEzL3PlyS4bVoR1W7C7UUuHCFV+GkX+72Mw7CRuVHKWKokqLIlkIASSQiQKvTXqfHufaSScTbTx7u9AcgTKolASAAIYZLKgVZkTmO2f0l7VrvhRoNLunVkkvwxqe8x2zOXMTs7cs6tdrWtXlh9sKaUF+LpCXixk9AAwoAAAAAAAAAAAAA4ru2hVhOlUip05xlGcZaxlGSw0/JmrfLbk1PZl3UtpZdN+vbzf06L4ea1i+9d5tSeL50+SX9o2jdOObqjvToYxmenr0s/tJLzUSyjXFFkcUX2nIjbKyJKk5AsgQiQJKzjld/V4kkgccX7+td5ZCXb7/6hASCSAIZVlmVYFZPrNoOQGzvR7C0pNYkqEHNftzW/P8Uma3bCsPSbm2t8Z6SvThL7Dkt78OWbX0I4SSM+ljkABlQAAAAAAAAAAAAAAAGv/PPyT9EufTaMcW9zJ76WMU7njLynrLxUu4x5Fm2PKPYtO+tq1pWXqVI4yvahLjGce9PD8jVbbGzalpXq2tdYq0puMscH1xku5ppruZqVK4SSsWSaRYkhACyBCZIEnHjHg+H9C5DWdAIBC7OskBkqySAPcczezum2jGo1mNClUqN9SnJdHFfjk/3TYiKMS8wdhild3LXt1oU19mlHeePOq/cZbMXrQACAAAAAAAAAAAAAAAAAYs58OSfT0VtGjH9LQjiulxnb8d7xg9fBvsRlMrUgpJxkk00009U0+KaA06hI5kz0HOLyWezLydKKfo8/0ls3lro29YZfFxenhuvrPOwZ0RdEsgBEkogASCMgA12cfn3BMFX/APfECWUlIuTSoOpKFOPtTlGEftTe6viwNj+anZ/QbNtE1rOm6svGq3NfCUV5HsD5tnW6p04U46RjGMV4RSS+R9JzaAAAAAAAAAAAAAAAAAAAAAHk+cnkqtpWc6cUvSKeals/8RLWHhJaeOH1GsusW1JNNPDT0aa0aa6mbjGv/PbyV9FuVfUo4o3Mn0iWEoXOMv76Tl4qRqVKx8mScNORy5NIsCMkNgWIK7wUgLkEZGQOOpJrC6j0PNvZOvtOyg1mMavSPwpRc18Yo6FoyLzE2G9e16z1VK33V9qrNY+EJEqs901oiwQMKAAAAAAAAAAAAAAAAAAAAAB1XKjYdO/ta1pV0VSPqy64TWsJrwaTO1AGnt7Z1LerUoVo7tSnOUJrslF4eO7sZCZlfn45Lbs4bUpR9WW7TusdUlpTqPxXqt90e0xFv4Nyo5mzjnI+7Zexbq6x6NbVqybxmEJOC8Z+yvNnsdj8z9/Ww68qNrHrUn01Rfuw9X8Q0Y+UiekM8bH5mLKnh3E61zLCzmXQ0890Yet+JntNlckrK1w6FrQpP60YR3/vv1viT6Ma27L5KX91/cWdeccaSlHoqb8JzxF+89nsnmZu6mHc16NBaaU1KvPv+rFe9meFTSL4Jq4xxsnmfsKWHW6a6l/izcYfdhjTxbPbbJ2Jb2q3bajSoReMqlCMM47ccfM7EEAAhvh38O/wAkEEOS7V39wFgQnnhqMgSCABIAAAAAAAAAAAAAAAPk2rs6ndUatvWjv0qkHGa4ZT7H1PrT6mjodk832zrbDpWlJyWqlVTrzz2pzzjyPUgDjhQitEtOrsLpEgAAAAAAAACDpdrWDnOb9Ghcb1OMac5TUXQks66vMVlp5hrp4HdFKtPexq1r1aZ7vfj3AddtnZkq8KahU3KkfVlNcXSmt2qvPR/uo4LnZk/Q5UcKpWk4Tqex69R1Y1Kj9b1X14zphI7L0TsqVEtPpN9aecvXOi8srrOSlRxu5k5YzjOdc/W11wB11axnK3pUoKVKSqUnLd6GnKnFVMyktz1E8ZeEfTsm2nTjNVZRlN1akt6K3VJSw846n3HI7PKw5yXqteq3B8MZyn5+LfafUwIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAAAAAAA//Z",
+      "price": "399000",
+      "quantity": "30",
+      "status": false
+    },
+    {
+      "id": "19",
+      "name": "Quần Âu LP24",
+      "image": "http://fatuno.vn/wp-content/uploads/2019/03/Quan-Au-Fatuno-xam-tieu-1.png",
+      "price": "560000",
+      "quantity": "24",
+      "status": false
+    },
+    {
+      "id": "22",
+      "name": "Quần Âu AK26",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjd5B7Xhhc_YPolB96ryr4u5hl6ySTaLrEsw&usqp=CAU",
+      "price": "589000",
+      "quantity": "16",
+      "status": false
+    },
+    {
+      "id": "21",
+      "name": "Áo Thun Tay Ngắn",
+      "image": "https://cf.shopee.vn/file/660348c406560edcbfcba6ae67db6b12",
+      "price": "199000",
+      "quantity": 19,
+      "status": false
+    },
+    {
+      "id": "211",
+      "name": "Quần Âu Cao Cấp Nam Giới",
+      "image": "https://namfashion.com/home/wp-content/uploads/2018/03/quan-au-nam-slim-hang-hieu-han-quoc-2018-3.jpg",
+      "price": "390000",
+      "quantity": 3,
+      "status": false
+    },
+    {
+      "id": "21111",
+      "name": "Quần Âu AK90",
+      "image": "https://thoitranghaianh.com/wp-content/uploads/2018/07/dong-phuc-quan-au-nam-120-mt3.jpg",
+      "price": "390000",
+      "quantity": 10,
+      "status": false
+    }
+  ],
+  "banner": [
+    {
+      "logo": "https://channel.mediacdn.vn/thumb_w/640/2019/9/5/photo-1-15676776630901148836505.jpg"
+    },
+    {
+      "logo": "https://4men.com.vn/images/2020/04/20200417_2810f1f6bde0be73749f0c82910fc06e_1587082948.png"
+    },
+    {
+      "logo": "https://file.hstatic.net/1000102419/file/uu-dai-lien-ket-vinmart-merriman_grande.jpg"
+    },
+    {
+      "logo": "https://tqq.com.vn/hm_content/uploads/images-baiviet/tich-diem/DEMO_TICH_DIEMYnh_SK_Ngang_2.jpg"
+    }
+  ],
+  "user": [
+    {
+      "username": "admin",
+      "passworld": "123",
+      "role": "Admin"
+    },
+    {
+      "username": "abc",
+      "passworld": "123",
+      "role": "Quản Lí"
+    },
+    {
+      "username": "abcd",
+      "passworld": "123",
+      "role": "Nhân Viên Bán Hàng"
+    },
+    {
+      "username": "abcde",
+      "passworld": "123",
+      "role": "Nhân Viên Kế Toán"
+    }
+  ]
+}
